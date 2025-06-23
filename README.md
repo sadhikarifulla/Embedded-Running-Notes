@@ -29,8 +29,7 @@ Embedded-Running-Notes/
 ## 📅 Course Info
 
 - Institute: Viven Embedded Systems, Hyderabad  
-- Mode: Offline  
-- Timings: 11:00 AM to 12:30 PM (Mon–Sat)  
+- Mode: Offline   
 - Start Date: June 2025
 
 ---
