@@ -21,6 +21,7 @@ Embedded-Running-Notes/
 - Managing Directories
 - VI Text Editor
 - Introduction - C Language
+- Elements of C
 
 ✅ Notes and code will be added as the course progresses.
 
