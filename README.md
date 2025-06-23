@@ -6,9 +6,12 @@ This repository contains my personal class notes and practice programs from the 
 
 ## 📂 Repository Structure
 
+```
 Embedded-Running-Notes/
-├── Theory-Notes/    → Softcopy notes in Markdown (.md)
-└── Programs/        → Embedded C programs from daily practice
+├── Theory-Notes/     → Softcopy notes in Markdown (.md)
+└── Programs/         → Embedded C programs from daily practice
+```
+
 
 ---
 
