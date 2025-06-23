@@ -38,10 +38,10 @@ Embedded-Running-Notes/
 ## 👨‍💻 Author
 
 Sadhik Arifulla  
-Embedded Systems Learner | Aspiring IoT & Firmware Developer
+Embedded Systems Learner | Aspiring Embedded Developer
 
 - GitHub: https://github.com/sadhikarifulla
-- Currently Learning: C for Embedded, vi Editor, ARM basics
+- Currently Learning: C for Embedded, vi Editor
 
 ---
 
