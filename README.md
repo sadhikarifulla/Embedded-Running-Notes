@@ -32,7 +32,7 @@ Embedded-Running-Notes/
 
 ## 👨‍💻 Author
 
-Sadhik Arifulla Shaik
+Sadhik Arifulla Shaik  
 Embedded Systems Learner | Aspiring Embedded Developer
 
 - GitHub: https://github.com/sadhikarifulla
