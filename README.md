@@ -1,6 +1,6 @@
 # 📘 Embedded-Running-Notes
 
-This repository contains my personal class notes and practice programs from the Embedded Systems course I'm attending at Viven Embedded Systems Academy, Madhapur. It is structured in a clean, accessible way to help with learning, reviewing, and showcasing my progress.
+This repository contains my personal class notes and practice programs from the Embedded Systems course I'm attending at Viven Embedded Systems Academy, Hyderabad. It is structured in a clean, accessible way to help with learning, reviewing, and showcasing my progress.
 
 ---
 
