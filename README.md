@@ -30,14 +30,6 @@ Embedded-Running-Notes/
 
 ---
 
-## 📅 Course Info
-
-- Institute: Viven Embedded Systems, Hyderabad  
-- Mode: Offline   
-- Start Date: June 2025
-
----
-
 ## 👨‍💻 Author
 
 Sadhik Arifulla  
